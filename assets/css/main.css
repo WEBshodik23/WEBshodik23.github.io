@@ -1,0 +1,10 @@
+.container .row video {
+    width: 500px;
+    margin: 20px;
+}
+.container .row .vv {
+    width: 1180px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
